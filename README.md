@@ -54,19 +54,19 @@ Password: test
 ## Preview
 
 <p align="center">
-    <img src="https://github.com/bbat2575/VirtualScrollAccessSystem/blob/main/images/VSAS-MainPage.png"/>
+    <img src="https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/VSAS-MainPage.png"/>
 </p>
 <p align="center">
-    <img src="https://github.com/bbat2575/VirtualScrollAccessSystem/blob/main/images/GUI-UserProfileEditPage.png"/>
+    <img src="https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-UserProfileEditPage.png"/>
 </p>
 <p align="center">
-    <img src="https://github.com/bbat2575/VirtualScrollAccessSystem/blob/main/images/GUI-LockedScroll.png"/>
+    <img src="https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-LockedScroll.png"/>
 </p>
 <p align="center">
-    <img src="https://github.com/bbat2575/VirtualScrollAccessSystem/blob/main/images/GUI-SearchOptions.png"/>
+    <img src="https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-SearchOptions.png"/>
 </p>
 <p align="center">
-    <img src="https://github.com/bbat2575/VirtualScrollAccessSystem/blob/main/images/GUI-ViewScrolsPage.png"/>
+    <img src="https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-ViewScrolsPage.png"/>
 </p>
 
 
