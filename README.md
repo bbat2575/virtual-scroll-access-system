@@ -4,7 +4,7 @@
 
 ## Overview
 
-Virtual Scroll Access System is a JavaFX desktop application for managing files stored in binary format. It features role-based access control, password-protected files, user profile management, and a scroll of the day feature.
+Virtual Scroll Access System is a JavaFX desktop application for storing, previewing, and managing files in binary format. It supports both converting files to binary and reading existing binary files, with role-based access control, password-protected files, user profile management, and a scroll of the day feature.
 
 ## How To Run
 
