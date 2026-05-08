@@ -2,6 +2,10 @@
 
 **A file management platform that enables users to store, download, preview, and edit files in binary format.**
 
+## Overview
+
+Virtual Scroll Access System is a JavaFX desktop application for managing files stored in binary format. It features role-based access control, password-protected files, user profile management, and a scroll of the day feature.
+
 ## How To Run
 
 ```bash
@@ -15,14 +19,16 @@ gradle test jacocoTestReport
 ```
 
 ## Admin Privileges
+
 Should you wish to use the application as admin (add/edit/remove users and scrolls; set scroll of the day):  
-<br>
+
 Username: admin  
 Password: admin
 
 ## User Accounts
+
 The program includes several preconfigured user accounts:  
-<br>
+
 Username: bbat  
 Password: password
 
@@ -39,8 +45,8 @@ Username: pete_g
 Password: password
 
 ## Locked Scrolls 
+
 The program features a locked scroll that requires a password for access:
-<br>
 Filename: The Turing Journal  
 Password: test
 
@@ -52,6 +58,16 @@ Password: test
 - JaCoCo
 
 ## Preview
+
+[![](https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/VSAS-MainPage.png)](https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/VSAS-MainPage.png)
+
+[![](https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-UserProfileEditPage.png)](https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-UserProfileEditPage.png)
+
+[![](https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-LockedScroll.png)](https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-LockedScroll.png)
+
+[![](https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-SearchOptions.png)](https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-SearchOptions.png)
+
+[![](https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-ViewScrolsPage.png)](https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-ViewScrolsPage.png)
 
 <p align="center">
     <img src="https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/VSAS-MainPage.png"/>
