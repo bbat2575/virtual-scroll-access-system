@@ -47,6 +47,7 @@ Password: password
 ## Locked Scrolls 
 
 The program features a locked scroll that requires a password for access:
+
 Filename: The Turing Journal  
 Password: test
 
@@ -68,21 +69,3 @@ Password: test
 [![](https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-SearchOptions.png)](https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-SearchOptions.png)
 
 [![](https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-ViewScrolsPage.png)](https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-ViewScrolsPage.png)
-
-<p align="center">
-    <img src="https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/VSAS-MainPage.png"/>
-</p>
-<p align="center">
-    <img src="https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-UserProfileEditPage.png"/>
-</p>
-<p align="center">
-    <img src="https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-LockedScroll.png"/>
-</p>
-<p align="center">
-    <img src="https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-SearchOptions.png"/>
-</p>
-<p align="center">
-    <img src="https://github.com/bbat2575/virtual-scroll-access-system/raw/main/images/GUI-ViewScrolsPage.png"/>
-</p>
-
-
